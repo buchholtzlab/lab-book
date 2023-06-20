@@ -1,0 +1,41 @@
+book_filename: "lab-book"
+delete_merged_file: true
+output_dir: "docs"
+rmd_files: [
+  "index.Rmd",
+  ## background
+  ## "culture.Rmd",
+  ## "expectations.Rmd",
+  ## "code-of-conduct.Rmd",
+  ## getting started
+  ## "seattle.Rmd",
+  ## "onboarding_safs.Rmd",
+  ## "onboarding_lab.Rmd",
+  ## "onboarding_cru.Rmd",
+  ## policies & procedures
+  ## "communications.Rmd",
+  ## "participation.Rmd",
+  ## "academics.Rmd",
+  ## "collaborations.Rmd",
+  ## "open_repro.Rmd",
+  ## "data.Rmd",
+  ## "publications.Rmd",
+  ## "presentations.Rmd",
+  ## "reservations.Rmd",
+  ## scicomm
+  ## "online_presence.Rmd",
+  ## safety
+  ## "health.Rmd",
+  ## "safety.Rmd",
+  ## Lab & Field
+  ## "labwork.Rmd",
+  ## "fieldwork.Rmd",
+   "vehicles.Rmd",
+  ## "boats.Rmd",
+  ## appendices
+  ## "dei-resources.Rmd",
+  ## "inclusive_scicomm.Rmd"
+]
+language:
+  ui:
+    chapter_name: "Chapter "
